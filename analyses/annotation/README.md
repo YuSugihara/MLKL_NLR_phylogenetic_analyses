@@ -5,6 +5,10 @@ and domain inputs used by the MLKL, kinase-domain, and NLR phylogenetic
 analyses. The raw genome FASTA files, full Helixer outputs, and raw NLRtracker
 directories are not included.
 
+The upstream Helixer/NLRtracker annotation dataset is archived on Zenodo:
+https://doi.org/10.5281/zenodo.20703384. Please cite this DOI when using the
+annotation files.
+
 ## File Map
 
 | File | Purpose |

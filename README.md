@@ -5,6 +5,9 @@ broader kinase-domain proteins. It also includes annotation notes for the
 Helixer, NLRtracker, and InterProScan steps that generated inputs used by those
 analyses.
 
+The upstream Helixer/NLRtracker annotation dataset is archived on Zenodo:
+https://doi.org/10.5281/zenodo.20703384.
+
 ## Analyses
 
 | Analysis | Directory | Contents |
@@ -17,6 +20,9 @@ analyses.
 | Step | Directory | What is documented |
 | --- | --- | --- |
 | Genome annotation and NLR/domain detection | [`analyses/annotation/`](analyses/annotation/) | Helixer command example and log-derived settings, NLRtracker command example, and InterProScan version |
+
+Please cite the Zenodo dataset DOI when using the upstream annotation files:
+https://doi.org/10.5281/zenodo.20703384.
 
 Each analysis directory is self-contained and has its own README describing the
 files used at each step.
